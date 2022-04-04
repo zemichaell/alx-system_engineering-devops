@@ -1,1 +1,1 @@
-This is my first hello world script
+ my first hello world script
